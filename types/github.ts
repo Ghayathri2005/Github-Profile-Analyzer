@@ -26,4 +26,5 @@ export interface GitHubRepo {
   language: string | null;
   created_at: string;
   updated_at: string;
+fork: boolean;
 }
