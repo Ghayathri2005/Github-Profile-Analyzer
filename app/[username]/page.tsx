@@ -3,7 +3,7 @@ import ProfileCard from "@/components/ProfileCard";
 import StatsGrid from "@/components/StatsGrid";
 import LanguageChart from "@/components/LanguageChart";
 import RepoCard from "@/components/RepoCard";
-import SkeletonLoader from "@/components/SkeletonLoader";
+
 import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
 
